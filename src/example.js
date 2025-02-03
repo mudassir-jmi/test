@@ -3,4 +3,8 @@ function greet(name) {
     return `Hello, ${name}!`;
 }
 
-module.exports = { greet };
+function Add(a, b) {
+    return a + b;
+}
+
+module.exports = { greet, Add };

@@ -6,7 +6,7 @@ const tracker = createFileTracker({
     gitDir: process.cwd(),       // Change the Git repository location
     ignorePaths: ['*.log'],      // Add patterns to ignore
     autoCommit: true,            // Set to false to disable automatic commits
-    autoPush: false,             // Set to false to disable automatic pushing
+    autoPush: true,             // Set to false to disable automatic pushing
     branch: 'main'        // Change the target branch
 });
 
