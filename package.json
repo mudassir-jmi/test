@@ -1,4 +1,22 @@
 {
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mudassir-jmi/test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mudassir-jmi/test/issues"
+  },
+  "homepage": "https://github.com/mudassir-jmi/test#readme",
+  "description": "",
   "dependencies": {
     "git-file-tracker": "^1.0.0"
   }
