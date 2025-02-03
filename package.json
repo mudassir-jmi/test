@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "git-file-tracker": "^1.0.0"
+  }
+}
